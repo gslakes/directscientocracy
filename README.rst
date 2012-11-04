@@ -1,14 +1,19 @@
-===================
-Askbot - Q&A forum
-===================
+===================================
+Direct scientocracy - debate forum
+===================================
 
-This is Askbot project - open source Q&A system, like StackOverflow, Yahoo Answers and some others
+This is the project for debate forum software implementing
+ideas from direct scientocracy.
 
-Demo site is http://askbot.org
+Direct scientocracy is the idea that decisions (policy) made at any scale
+are best made collaboratively, directly involving the people impacted
+by the decision, guided by evidence and logic in a manner similar to that
+of the scientific method, and constrained by a charter of ethics.
 
-All documentation is in the directory askbot/doc
 
-askbot-devel repository is open to anyone who wants to help develop Askbot - just drop us a note
+This particular project is based on the open source Askbot Q&A system http://askbot.org
 
-Askbot is based on code of CNPROG, originally created by Mike Chen 
-and Sailing Cai and some code written for OSQA
+Askbot documentation is in the directory askbot/doc
+
+Askbot itself is based on code of CNPROG, originally created by Mike Chen 
+and Sailing Cai and some code written for OSQA.
